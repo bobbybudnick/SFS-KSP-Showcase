@@ -1,6 +1,8 @@
 # SFS-KSP-Showcase
 A varied collection of vehicles for the updated version of KSP
 
+![](https://github.com/bobbybudnick/SFS-KSP-Showcase/blob/main/20220621230328_1.jpg)
+
 Mods
 -----
 KSPIE  
